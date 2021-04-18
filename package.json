@@ -1,0 +1,24 @@
+{
+  "name": "personal-password-manager",
+  "version": "1.0.0",
+  "description": "This is web based password manager, hosted locally and served personally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeeptembare/personal-password-manager.git"
+  },
+  "keywords": [
+    "password",
+    "manager",
+    "web-based"
+  ],
+  "author": "Sandeep Tembare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeeptembare/personal-password-manager/issues"
+  },
+  "homepage": "https://github.com/sandeeptembare/personal-password-manager#readme"
+}
